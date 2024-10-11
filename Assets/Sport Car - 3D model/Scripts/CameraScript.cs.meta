@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9bfe32aef832fe4458d9eb90a016babe
+timeCreated: 1501417752
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88076
+  packageName: Sport Car - 3D model
+  packageVersion: 1.0
+  assetPath: Assets/Sport Car - 3D model/Scripts/CameraScript.cs
+  uploadId: 193418

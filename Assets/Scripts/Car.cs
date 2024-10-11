@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Car : MonoBehaviour
 {
@@ -9,6 +11,15 @@ public class Car : MonoBehaviour
     public int steerValue;
     
     void Start() {}
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Obstacle")) {
+            speed = 0;
+            SceneManager.LoadScene(0);
+        }
+        Debug.Log("Hit");
+    }
 
     void Update() {
         speed += speedGain * Time.deltaTime;
