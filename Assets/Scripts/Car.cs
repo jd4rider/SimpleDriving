@@ -18,7 +18,6 @@ public class Car : MonoBehaviour
             speed = 0;
             SceneManager.LoadScene(0);
         }
-        Debug.Log("Hit");
     }
 
     void Update() {
