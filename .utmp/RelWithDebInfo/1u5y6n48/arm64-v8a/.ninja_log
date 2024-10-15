@@ -1,0 +1,19 @@
+# ninja log v5
+3	900	1728880597531483252	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5635c69d6d7653b9
+2	902	1728880597532596795	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	70c2acb987e3c9fe
+1160	1362	1728880597995110664	/Users/jonathanforrider/Documents/Programming/Simple Driving/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1u5y6n48/obj/arm64-v8a/libgame.so	2efdc466a639d0d6
+1	910	1728880597544042185	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	9baa2c1e0182e352
+3	1088	1728880597723975801	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fb966cec3cb07d63
+9	973	1728880597608326563	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	25ad679128773b14
+2	997	1728880597631484594	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	99e59e9cf076e802
+5	910	1728880597546670314	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e6e48ad4233faa6e
+1	1160	1728880597796289065	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	775a47b8d65b2710
+3	941	1728967957141272245	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5635c69d6d7653b9
+2	1058	1728967957141325453	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	70c2acb987e3c9fe
+2	1062	1728967957149635814	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	9baa2c1e0182e352
+3	1162	1728967957375136181	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fb966cec3cb07d63
+4	1185	1728967957206950503	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	25ad679128773b14
+2	1187	1728967957233513965	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	99e59e9cf076e802
+4	1242	1728967957152257573	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e6e48ad4233faa6e
+1	1253	1728967957459884169	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	775a47b8d65b2710
+1253	1469	1728967957698873873	/Users/jonathanforrider/Documents/Programming/Simple Driving/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1u5y6n48/obj/arm64-v8a/libgame.so	2efdc466a639d0d6

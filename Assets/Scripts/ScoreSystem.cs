@@ -8,19 +8,19 @@ public class ScoreSystem : MonoBehaviour
     
     public const string HighScoreKey = "HighScore";
     
-    private float score;
+    private float _score;
 
     // Update is called once per frame
     void Update()
     {
-        score += Time.deltaTime * scoreMultiplier;
-        scoreText.text = Mathf.FloorToInt(score).ToString();
+        _score += Time.deltaTime * scoreMultiplier;
+        scoreText.text = Mathf.FloorToInt(_score).ToString();
     }
     
     void OnDestroy() {
-        if (score > PlayerPrefs.GetInt(HighScoreKey, 0))
+        if (_score > PlayerPrefs.GetInt(HighScoreKey, 0))
         {
-            PlayerPrefs.SetInt(HighScoreKey, Mathf.FloorToInt(score));
+            PlayerPrefs.SetInt(HighScoreKey, Mathf.FloorToInt(_score));
         }
     }
 }

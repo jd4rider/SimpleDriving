@@ -10,8 +10,6 @@ public class Car : MonoBehaviour
 
     public int steerValue;
     
-    void Start() {}
-
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Obstacle")) {
